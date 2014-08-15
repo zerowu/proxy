@@ -1,0 +1,15 @@
+module.exports={
+    'html':'text/html',
+    'htm':'text/html',
+    'css':'text/css',
+    'js':'text/javascript',
+    'json':'application/json',
+    'ico':'image/x-icon',
+    'gif':'image/gif',
+    'jpeg':'image/jpeg',
+    'jpg':'image/jpeg',
+    'png':'image/png',
+    'txt':'text/plain',
+    'xml':'text/xml',
+    'swf':'application/x-shockwave-flash'
+}
