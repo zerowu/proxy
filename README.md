@@ -9,4 +9,5 @@ node proxy.js
 
 ## 使用
 根据需要配置config/conf.js
+
 浏览器输入http://[本机ip]:8080/?url=[代理的url地址]
